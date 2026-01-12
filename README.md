@@ -207,7 +207,7 @@ Nếu bạn phát hiện lỗi hoặc muốn đóng góp cho dự án:
 
 ## 👥 Tác Giả
 
-- **Nguyễn Văn Tiến** - *Developer*
+- **Nguyễn Văn Tiền** - *Developer*
 - **Nguyễn Hữu Phúc** - *Developer*
 
 ## 📄 License
